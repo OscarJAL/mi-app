@@ -4,7 +4,8 @@ const nextConfig: NextConfig = {
  images:{
   domains:[
     "22465736.fs1.hubspotusercontent-na1.net", 
-    "tudelu.com"
+    "tudelu.com",
+    "images.pexels.com"
   ]
  }
 };
